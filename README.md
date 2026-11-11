@@ -52,6 +52,7 @@ Collaborative research-design project exploring potential barriers to continued 
 
 - **Email:** [dzmitry.krotau@gmail.com](mailto:dzmitry.krotau@gmail.com)
 - **GitHub:** [@dm-virsetti](https://github.com/dm-virsetti)
+- **LinkedIn:** https://www.linkedin.com/in/dzmitry-krotau-303009349/
 
 ---
 
